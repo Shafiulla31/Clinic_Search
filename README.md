@@ -1,4 +1,4 @@
-# Scratch Pay Test - Express Node TS and Docker
+# Clinic Search - Express Node TS and Docker
 
 ## Summary
 
@@ -28,4 +28,4 @@ Example of a response for this request http://localhost:3000/api/clinic?state=FL
 
 # Author
 
-Made with ♥ by Carlos Galceran | [Github](https://github.com/cgalceran) | [LinkedIn](https://www.linkedin.com/in/cgalceran/)
+ by Shafiulla Khan
